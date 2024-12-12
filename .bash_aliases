@@ -1,0 +1,5 @@
+alias aglu='sudo apt list --upgradable'
+alias agu='sudo apt update '
+alias agar='sudo apt autoremove'
+alias agug='sudo apt upgrade '
+alias _='sudo '
